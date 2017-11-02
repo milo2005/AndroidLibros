@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Libros</string>
+    <string name="add">Agregar</string>
+    <string name="more">Mas</string>
+    <string name="info">Información</string>
+    <string name="about">Acerca De</string>
 </resources>
